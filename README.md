@@ -1,10 +1,7 @@
 # List of DRC Startups to watch
 
-A List of New and Existing Startups to Watch
+A List of New and Existing Startups to Watch out in DRC
 
-
-
-Company name, Category, Location, Key People
-
-
-1. [DugAssistant](https://www.dugassistant.com) - AI, Education - Goma, Lemoisson Metre
+| **Company Name**                                                                 | **Category**    | **Location** | **Key People**          |
+|---------------------------------------------------------------------------------|-----------------|--------------|-------------------------|
+| [DugAssistant](https://www.dugassistant.com)                                    | `AI`, `Education`   | Goma         | Lemoisson Metre         |
